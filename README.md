@@ -56,4 +56,4 @@ python -m hand_control.cli.run --show
 
 ## Author
 
-Yash Nautiyal
+Akansha Bhutani

@@ -1,3 +1,3 @@
 from ._version import __version__
 
-__author__ = "Akansha Bhutani"
+__author__ = "Yash Nautiyal"
